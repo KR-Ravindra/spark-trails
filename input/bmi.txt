@@ -1,0 +1,4 @@
+John Wu 5 186
+Cliff Yang 6 120 
+Lynn Huang 7 220
+Jean Lam 3 80
